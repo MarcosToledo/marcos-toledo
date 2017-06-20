@@ -6,9 +6,26 @@
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 20 Jun 2017 12:31:13 -0300</pubDate>
-    <lastBuildDate>Tue, 20 Jun 2017 12:31:13 -0300</lastBuildDate>
+    <pubDate>Tue, 20 Jun 2017 12:58:01 -0300</pubDate>
+    <lastBuildDate>Tue, 20 Jun 2017 12:58:01 -0300</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>First Post</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/uploads/000003600023.jpg&quot; alt=&quot;000003600023.jpg&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 20 Jun 2017 12:55:00 -0300</pubDate>
+        <link>http://yourdomain.com/photography/2017/06/20/first-post.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/photography/2017/06/20/first-post.html</guid>
+        
+        <category>35mm</category>
+        
+        <category>photography</category>
+        
+        
+        <category>photography</category>
+        
+      </item>
     
       <item>
         <title>Welcome to Jekyll!</title>
