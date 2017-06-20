@@ -5,13 +5,13 @@
     <description></description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 20 Jun 2017 18:47:31 +0000</pubDate>
-    <lastBuildDate>Tue, 20 Jun 2017 18:47:31 +0000</lastBuildDate>
+    <pubDate>Tue, 20 Jun 2017 20:44:24 +0000</pubDate>
+    <lastBuildDate>Tue, 20 Jun 2017 20:44:24 +0000</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
         <title>First Post</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/uploads/000003600023.jpg&quot; alt=&quot;000003600023.jpg&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;/../uploads/000003600023.jpg&quot; alt=&quot;000003600023.jpg&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 20 Jun 2017 15:55:00 +0000</pubDate>
         <link>/posts/first-post/</link>
