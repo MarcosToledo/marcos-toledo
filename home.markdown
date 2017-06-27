@@ -6,6 +6,7 @@ Title: Welcome to my new website!
 layout: page
 ---
 
-<img src="000003600023.jpg" />
+<img src= ![000003600023.jpg] />
+![000003600023.jpg](/uploads/000003600023.jpg)
 
 {{ page['Title'] }} {{ page['date'] }}
