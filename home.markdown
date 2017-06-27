@@ -7,7 +7,7 @@ layout: page
 ---
 
 Main!
-[000003600017.jpg](/uploads/000003600017.jpg)
+![000003600023.jpg](/uploads/000003600023.jpg)
 
-{{page.title}} 
+{{page.title}}
 {{page.data}}
