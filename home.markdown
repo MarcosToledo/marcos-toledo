@@ -10,4 +10,4 @@ Main!
 ![000003600023.jpg](/uploads/000003600023.jpg)
 
 {{page.title}}
-{{page.data}}
+{{page.date}}
