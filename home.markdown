@@ -6,6 +6,3 @@ Title: WELCOME TO MY NEW WEBSITE!
 layout: home
 ---
 
-![000003600023.jpg](/uploads/000003600023.jpg)
-
-{{ page\['Title'\] }}
