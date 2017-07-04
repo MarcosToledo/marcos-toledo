@@ -10,7 +10,7 @@ layout: home
 <img class="img-background" src="/uploads/landscape.jpg">
 <div class="img-background-layer" ></div>
 <h1 class="label-name"></h1>
-<h2 class="label-description">Web Developer</h2>
+<h2 class="label-description"></h2>
 </div>
 <div class="second-part"></div>
 </div>
