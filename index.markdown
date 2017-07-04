@@ -10,8 +10,8 @@ layout: home
 <div>
 <img class="img-background" src="/uploads/landscape.jpg">
 <div class="img-background-layer" ></div>
-<h1 class="label-name"> {{ page\['label name'\] }}
-<h2 class="label-description"> {{ page\['label description'\] }} 
+<h1 class="label-name"> {{ page\['label name'\] }} </h1>
+<h2 class="label-description"> {{ page\['label description'\] }} </h2>
 </div>
 <div class="second-part"></div>
 </div>
