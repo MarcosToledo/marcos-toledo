@@ -1,5 +1,5 @@
 ---
-title: Marcos Toledo
+title: Home
 position: 0
 label name: Marcos Toledo
 label description: Web Developer
