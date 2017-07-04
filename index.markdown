@@ -1,14 +1,16 @@
 ---
+title: Marcos Toledo
+label name: Marcos Toledo
+label description: Web Developer
 layout: home
 ---
 
 <div class="home-container">
-  <div>
-    <img class="img-background" src="/uploads/landscape.jpg">
-    <div class="img-background-layer" ></div>
-    <h1 class="label-name">Marcos Toledo</h1>
-    <h2 class="label-description">Web Developer</h2>
-  </div>
-  <div class="second-part"></div>
+<div>
+<img class="img-background" src="/uploads/landscape.jpg">
+<div class="img-background-layer" ></div>
+<h1 class="label-name"></h1>
+<h2 class="label-description">Web Developer</h2>
 </div>
-
+<div class="second-part"></div>
+</div>
