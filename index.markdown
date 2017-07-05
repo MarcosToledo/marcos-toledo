@@ -1,8 +1,8 @@
 ---
 title: Home
 position: 0
-label-name: Marcos Toledo
-label-description: Web Developer
+label-name: Full Name
+label-description: Short description
 layout: home
 ---
 
