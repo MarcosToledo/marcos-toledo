@@ -6,4 +6,4 @@ label description: Web Developer
 layout: home
 ---
 
- {{ page\['label description'\] }} 
+ {{ \['label description'\] }} 
