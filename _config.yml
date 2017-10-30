@@ -2,6 +2,9 @@
 title: Marcos Toledo
 timezone: UTC
 collections:
+  noticias:
+    title: Noticias
+    output: true
   posts:
     title: Posts
     output: true
