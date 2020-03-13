@@ -1,7 +1,7 @@
 ---
 title: Home
 position: 0
-label-name: Full Name
+label-name: Marco Toledo
 label-description: Short description
 layout: home
 ---
